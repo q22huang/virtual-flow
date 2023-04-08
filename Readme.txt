@@ -1,0 +1,1 @@
+This file contains the supplementary data of Zhang et al.,(2023). A conceptual and operational framework for quantifying virtual flows of ecosystem services. Other data are available from the corresponding author upon reasonable request. Author's e-mail: lingzhang@stu.pku.edu.cn
